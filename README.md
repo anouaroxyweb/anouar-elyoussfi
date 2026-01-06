@@ -5,11 +5,19 @@
 </p>
 
 ### 👨‍💻 About Me
-[cite_start]Junior Full Stack Developer passionate about the Laravel and React.js ecosystem[cite: 4, 7]. [cite_start]I focus on building robust APIs and smooth user interfaces[cite: 5].
+[cite_start]Junior Full Stack Developer passionate about the Laravel and React.js ecosystem. [cite_start]I focus on building robust APIs and smooth user interfaces[cite: 5].
 
 - [cite_start]📍 Based in: Oued Zem, Morocco[cite: 1].
-- [cite_start]📧 Reach me at: [anwarelyoussfil1@gmail.com](mailto:anwarelyoussfil1@gmail.com)[cite: 2].
+- 📧 Reach me at: [anwarelyoussfil1@gmail.com](mailto:anwarelyoussfil1@gmail.com).
 - [cite_start]💼 Currently: Open to new opportunities[cite: 5].
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/anouar-elyoussfi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Anouar LinkedIn" height="35" /></a>
+<a href="mailto:anwarelyoussfil1@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Anouar Gmail" height="35" /></a>
+</p>
 
 ---
 
